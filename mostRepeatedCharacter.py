@@ -1,5 +1,5 @@
 from pprint import pprint
-sentence = "This is the text where we need to find which character is repeated the most!!"
+sentence = input("Enter the string : ")
 letters = {}
 most_frequency_char = []
 for char in sentence.lower():
