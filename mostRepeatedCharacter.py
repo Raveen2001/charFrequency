@@ -14,4 +14,3 @@ for letter, frequency in letters:
     else:
         break
 print("The most repeated character is ", most_frequency_char)
-sdfs
